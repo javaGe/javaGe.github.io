@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Agent 入门：从工具调用到第一个可测试的循环"
-date: 2026-11-22 00:00:00 +0800
+date: 2026-11-22 12:00:00 +0800
 description: "用测试用例查询做一个最小的 AI Agent，理解工具调用、运行边界和评估方法。"
 tags: [AI Agent, Python, 软件测试]
 ---
